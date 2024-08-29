@@ -374,7 +374,6 @@ Output
 Libs/MelonLoader.dll
 Libs/Il2Cppmscorlib.dll
 Libs/Il2CppSystem.dll
-Libs/UnhollowerBaseLib.dll
-Libs/UnhollowerRuntimeLib.dll
+Libs/Il2CppInterop.Runtime.dll
 Libs/UnityEngine.AssetBundleModule.dll
 Libs/UnityEngine.CoreModule.dll
